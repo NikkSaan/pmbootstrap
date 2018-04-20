@@ -27,10 +27,9 @@
             * How to test
         * Add 'Close #nnnn' or 'Fixes #nnnn' at the bottom to automatically
           close issue nnnn as soon as your PR gets merged.
+
+    Please insert your text before the --- line, feel free to delete this big
+    comment block after reading.
 -->
-
-
-
-
 ---
 [x] Merge on GitHub (see <https://postmarketos.org/merge>)

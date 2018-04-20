@@ -16,4 +16,7 @@
         * Check "logread" on the device and attach the output if it could be
           useful.
         * Run "logread" on the device, does it output anything useful?
+
+    Please insert your text below and feel free to delete this big comment
+    block after reading.
 -->
